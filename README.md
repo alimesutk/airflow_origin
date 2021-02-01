@@ -6,10 +6,10 @@ and blog comments ;)
 
 #project structure
 root/
-├── dags/
-│   └── dummy_dag.py
-├── scripts/
-│   └── entrypoint.sh
-├── logs/
-├── .env
-└── docker-compose.yml
+    dags/
+      dummy_dag.py
+    scripts/
+      entrypoint.sh
+    logs/
+    .env
+    docker-compose.yml
